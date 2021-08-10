@@ -1,4 +1,4 @@
-RHEL 7 CIS
+RHEL 7 CIS - customized by opensource 
 ================
 
 ![Build Status](https://img.shields.io/github/workflow/status/ansible-lockdown/RHEL7-CIS/CommunityToDevel?label=Devel%20Build%20Status&style=plastic)
